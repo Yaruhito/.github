@@ -2,11 +2,19 @@
 
 Welcome to Yaruhito, a place where everyone can collab and get their work done in a productive environment 🚀!
 
-## Contribution Guidlines 📕
+## Community 🌐
+
+To be a part of Yaruhito community, 
+
+<!-- Yaruhito Family would do? -->
 
 ## Useful Resources 📚
 
-## Community 🌐
+## Contribution Guidlines 📕
+
+
+
+
 
 
 
