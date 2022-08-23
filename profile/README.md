@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Welcome to Yaruhito, a place where everyone can collab and get their work done in a productive environment 🚀!
+
+## Contribution Guidlines 📕
+
+## Useful Resources 📚
+
+## Community 🌐
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
